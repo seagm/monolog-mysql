@@ -5,13 +5,13 @@ MySQL Handler for Monolog, which allows to store log messages in a MySQL Table.
 It can log text messages to a specific table, and creates the table automatically if it does not exist.
 The class further allows to dynamically add extra attributes, which are stored in a separate database field, and can be used for later analyzing and sorting.
 
-Homepage: http://www.d-herrmann.de/projects/monolog-mysql-handler/
+Homepage: https://github.com/qq10044375/monolog-mysql
 
 # Installation
 monolog-mysql is available via composer. Just add the following line to your required section in composer.json and do a `php composer.phar update`.
 
 ```
-"wazaari/monolog-mysql": ">1.0.0"
+"kaleoz/monolog-mysql-handler": "^1.0"
 ```
 
 # Usage
