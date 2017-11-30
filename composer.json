@@ -1,13 +1,13 @@
 {
-    "name": "wazaari/monolog-mysql",
+    "name": "kaleoz/monolog-mysql-handler",
     "description": "A handler for Monolog that sends messages to MySQL",
     "keywords": ["log", "logging", "monolog", "mysql", "database"],
-    "homepage": "https://github.com/waza-ari/monolog-mysql",
+    "homepage": "https://github.com/qq10044375/monolog-mysql",
     "license": "MIT",
     "authors": [
         {
-            "name": "Daniel Herrmann",
-            "email": "daniel.herrmann1@gmail.com"
+            "name": "xiongjianbo",
+            "email": "10044375@qq.com"
         }
     ],
     "require": {
